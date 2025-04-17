@@ -1,0 +1,198 @@
+[
+  {
+    "question": "What is the primary benefit of implementing xmla endpoint for semantic models in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing XMLA endpoint for semantic models primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 40
+  },
+  {
+    "question": "Which feature would you use to implement row-level, column-level, object-level, and file-level access control in Microsoft Fabric?",
+    "options": {
+      "A": "The Row-level, column-level, object-level, and file-level access control panel in the workspace settings",
+      "B": "The Security tab in the Row-level, column-level, object-level, and file-level access control section",
+      "C": "The Admin portal Row-level, column-level, object-level, and file-level access control configuration",
+      "D": "The Row-level, column-level, object-level, and file-level access control API through PowerShell"
+    },
+    "correct_answer": "A",
+    "explanation": "The Row-level, column-level, object-level, and file-level access control panel in workspace settings is the primary way to configure this feature in Microsoft Fabric.",
+    "category": "maintain_analytics_solution",
+    "id": 33
+  },
+  {
+    "question": "Which feature would you use to implement reusable assets (templates, data sources, shared models) in Microsoft Fabric?",
+    "options": {
+      "A": "The Reusable assets (templates, data sources, shared models) panel in the workspace settings",
+      "B": "The Security tab in the Reusable assets (templates, data sources, shared models) section",
+      "C": "The Admin portal Reusable assets (templates, data sources, shared models) configuration",
+      "D": "The Reusable assets (templates, data sources, shared models) API through PowerShell"
+    },
+    "correct_answer": "A",
+    "explanation": "The Reusable assets (templates, data sources, shared models) panel in workspace settings is the primary way to configure this feature in Microsoft Fabric.",
+    "category": "maintain_analytics_solution",
+    "id": 41
+  },
+  {
+    "question": "What is the primary benefit of implementing version control for workspace in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing Version control for workspace primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 36
+  },
+  {
+    "id": 24,
+    "question": "You have a Fabric tenant that contains a lakehouse named lake house1. Lakehouse1 contains an unpar\u7400\u6900\u7400\u6900oned table named Tab le1. You plan to copy data to Table1 and par\u7400\u6900\u7400\u6900on the table based on a date column in the source data. You create a Copy ac\u7400\u6900vity to copy the data to Table1. You need to specify the par\u7400\u6900\u7400\u6900on column in the Des\u7400\u6900na\u7400\u6900on se\u7400\u7d00ng s of the Copy ac\u7400\u6900vity. What should you do \u6600\u6900rst?",
+    "options": {
+      "A": "From the Des\u7400\u6900na\u7400\u6900on tab, set Mode to Append.",
+      "B": "Sec\u7400\u6900on:",
+      "C": "From the Source tab, select Enable par\u7400\u6900\u7400\u6900on discovery",
+      "D": "From the Des\u7400\u6900na\u7400\u6900on tab, set Mode to Overwrite."
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing data aggregation?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing Data aggregation due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 51
+  },
+  {
+    "question": "When working with lakehouse, warehouse, or eventhouse selection in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Lakehouse, warehouse, or eventhouse selection",
+      "B": "Write custom code to implement Lakehouse, warehouse, or eventhouse selection",
+      "C": "Use pre-built templates for Lakehouse, warehouse, or eventhouse selection",
+      "D": "Outsource Lakehouse, warehouse, or eventhouse selection to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Lakehouse, warehouse, or eventhouse selection in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 45
+  },
+  {
+    "question": "When working with star schema implementation in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Star schema implementation",
+      "B": "Write custom code to implement Star schema implementation",
+      "C": "Use pre-built templates for Star schema implementation",
+      "D": "Outsource Star schema implementation to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Star schema implementation in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 49
+  },
+  {
+    "id": 4,
+    "question": "HOTSPOT You need to resolve the issue with the pricing group classi\u6600\u6900c a\u7400\u6900on. How should you complete the T-SQL statement? To answer, sele ct the appropriate op\u7400\u6900ons in the answer area. NOTE: Each correct selec\u7400\u6900on is worth one point. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Hot Area: Answer Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "L": "statement? To answer, sele ct the appropriate op\u7400\u6900ons in the answer area. NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 5,
+    "question": "What should you recommend using to ingest the customer data i nto the data store in the Anaty\u7400\u6900csPOC workspace? A.a stored procedure B.a pipeline that contains a KQL ac\u7400\u6900vity",
+    "options": {
+      "C": "a Spark notebook",
+      "A": "a stored procedure",
+      "B": "a pipeline that contains a KQ",
+      "L": "ac\u7400\u6900vity",
+      "D": "Sec\u7400\u6900on:"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 15,
+    "question": "You have a Fabric tenant that contains a warehouse. Several \u7400\u6900mes a day. the performance of all warehouse queries degrades. You suspect that Fabric is thro\u7400\u7400ling the compute u sed by the warehouse. What should you use to iden\u7400\u6900fy whether thro\u7400\u7400ling is occurrin g?",
+    "options": {
+      "A": "the Capacity se\u7400\u7d00ngs",
+      "B": "Sec\u7400\u6900on:",
+      "C": "dynamic management views (DMVs)",
+      "D": "the Microso\u6600\u7400 Fabric Capacity Metrics app"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 26,
+    "question": "You have source data in a folder on a local computer. You need to create a solu\u7400\u6900on that will use Fabric to populate a data store. The solu\u7400\u6900on must meet the following requirement s: * Support the use of data\u6600\u6c00ows to load and append data to the dat a store. * Ensure that Delta tables are V-Order op\u7400\u6900mized and compacte d automa\u7400\u6900cally. Which type of data store should you use?",
+    "options": {
+      "A": "Sec\u7400\u6900on:",
+      "B": "an Azure SQ",
+      "L": "database",
+      "C": "a warehouse",
+      "D": "a KQ"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "question": "Which performance issue might occur if incremental refresh is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of Incremental refresh can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 69
+  },
+  {
+    "question": "What is the best practice for large semantic model storage in a large-scale semantic model?",
+    "options": {
+      "A": "Implement it at the data source level",
+      "B": "Configure it in the model properties",
+      "C": "Use DAX to define it programmatically",
+      "D": "Apply it through the XMLA endpoint"
+    },
+    "correct_answer": "B",
+    "explanation": "Configuring Large semantic model storage in model properties is the recommended approach for large-scale semantic models.",
+    "category": "semantic_models",
+    "id": 64
+  },
+  {
+    "id": 23,
+    "question": "HOTSPOT You have a Microso\u6600\u7400 Power B1 report and a seman\u7400\u6900c model that us es Direct Lake mode. From Power Si Desktop, you open Performa nce analyzer as shown in the following exhibit. Use the drop-down menus to select the answer choice that comp letes each statement based on the informa\u7400\u6900on presented in th e graphic. NOTE: Each correct selec\u7400\u6900on is worth one point. Hot Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Hot Area: I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "semantic_models"
+  }
+]

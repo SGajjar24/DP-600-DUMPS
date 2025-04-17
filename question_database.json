@@ -1,0 +1,939 @@
+[
+  {
+    "id": 1,
+    "question": "You have a Fabric workspace named Workspace 1 that contains a data\u6600\u6c00ow named Data\u6600\u6c00ow1. Data\u6600\u6c00ow! has a query that returns 2. 000 rows. You view the query in Power Query as shown in the foll owing exhibit. What can you iden\u7400\u6900fy about the pickupLongitude column?",
+    "options": {
+      "A": "The column has duplicate values.",
+      "B": "Sec\u7400\u6900on:",
+      "C": "The column has missing values.",
+      "D": "There are 935 values that occur only once."
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "category": "maintain_analytics_solution"
+  },
+  {
+    "id": 2,
+    "question": "HOTSPOT You to need assign permissions for the data store in the Analy \u7400\u6900csPOC workspace. The solu\u7400\u6900on must meet the security requir ements. Which addi\u7400\u6900onal permissions should you assign when you shar e the data store? To answer, select the appropriate op\u7400\u6900ons in the answer area. NOTE: Each correct selec\u7400\u6900on is worth one point. Hot Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "C": "workspace. The solu\u7400\u6900on must meet the security requir ements. Which addi\u7400\u6900onal permissions should you assign when you shar e the data store? To answer, select the appropriate op\u7400\u6900ons in the answer area. NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Hot Area: I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "maintain_analytics_solution"
+  },
+  {
+    "id": 3,
+    "question": "HOTSPOT You need to create a DAX measure to calculate the average over all sa\u7400\u6900sfac\u7400\u6900on score. How should you complete the DAX code? To answer, select the ap propriate op\u7400\u6900ons in the answer area. NOTE: Each correct selec\u7400\u6900on is worth one point. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Hot Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "X": "code? To answer, select the ap propriate op\u7400\u6900ons in the answer area. NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "semantic_models"
+  },
+  {
+    "id": 4,
+    "question": "HOTSPOT You need to resolve the issue with the pricing group classi\u6600\u6900c a\u7400\u6900on. How should you complete the T-SQL statement? To answer, sele ct the appropriate op\u7400\u6900ons in the answer area. NOTE: Each correct selec\u7400\u6900on is worth one point. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Hot Area: Answer Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "L": "statement? To answer, sele ct the appropriate op\u7400\u6900ons in the answer area. NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 5,
+    "question": "What should you recommend using to ingest the customer data i nto the data store in the Anaty\u7400\u6900csPOC workspace? A.a stored procedure B.a pipeline that contains a KQL ac\u7400\u6900vity",
+    "options": {
+      "C": "a Spark notebook",
+      "A": "a stored procedure",
+      "B": "a pipeline that contains a KQ",
+      "L": "ac\u7400\u6900vity",
+      "D": "Sec\u7400\u6900on:"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 6,
+    "question": "Which type of data store should you recommend in the Analy\u7400\u6900cs POC workspace? A.a data lake B.a warehouse",
+    "options": {
+      "C": "Sec\u7400\u6900on:",
+      "A": "a data lake",
+      "B": "a warehouse",
+      "D": "an external Hive metaStore"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "category": "maintain_analytics_solution"
+  },
+  {
+    "id": 7,
+    "question": "IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 You have a Fabric warehouse that contains a table named Stagi ng.Sales. Staging.Sales contains the following columns. You need to write a T-SQL query that will return data for the ye ar 2023 that displays ProductID and ProductName arxl has a su mmarized Amount that is higher than 10,000. Which query shou ld you use? A) B) C) D) A.Op\u7400\u6900on A B.Op\u7400\u6900on B C.Op\u7400\u6900on C D.Op\u7400\u6900on D Correct Answer: A Sec\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 You have a Fabric warehouse that contains a table named Stagi ng.Sales. Staging.Sales contains the following columns. You need to write a T-SQ",
+      "L": "query that will return data for the ye ar 2023 that displays ProductI",
+      "D": "",
+      "A": "Sec\u7400\u6900on:",
+      "B": "",
+      "C": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 8,
+    "question": "HOTSPOT You have a data warehouse that contains a table named Stage. C ustomers. Stage-Customers contains all the customer recor d updates from a customer rela\u7400\u6900onship management (CRM) syst em. There can be mul\u7400\u6900ple updates per customer You need to write a T-SQL query that will return the customer I D, name, postal code, and the last updated \u7400\u6900me of the most rece nt row for each customer ID. How should you complete the code? To answer, select the appro priate op\u7400\u6900ons in the answer area, NOTE Each correct selec\u7400\u6900on is worth one point. Hot Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "C": "ustomers. Stage-Customers contains all the customer recor d updates from a customer rela\u7400\u6900onship management (CRM) syst em. There can be mul\u7400\u6900ple updates per customer You need to write a T-SQ",
+      "L": "query that will return the customer",
+      "I": "D, name, postal code, and the last updated \u7400\u6900me of the most rece nt row for each customer I",
+      "D": "How should you complete the code? To answer, select the appro priate op\u7400\u6900ons in the answer area, NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Hot Area: I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 9,
+    "question": "You have a Fabric workspace that contains a DirectQuery sema n\u7400\u6900c model. The model queries a data source that has 500 millio n rows. You have a Microso\u6600\u7400 Power Bl report named Report1 that uses th e model. Report! contains visuals on mul\u7400\u6900ple pages. You need to reduce the query execu\u7400\u6900on \u7400\u6900me for the visuals on al l the pages. What are two features that you can use? Each correct answer pr esents a complete solu\u7400\u6900on. NOTE: Each correct answer is worth one point. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 A.user-de\u6600\u6900ned aggrega\u7400\u6900ons B.automa\u7400\u6900c aggrega\u7400\u6900on C.query caching D.OneLake integra\u7400\u6900on Correct Answer: A, B Sec\u7400\u6900on:",
+    "options": {
+      "E": "Each correct answer is worth one point. I",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416",
+      "A": "user-de\u6600\u6900ned aggrega\u7400\u6900ons",
+      "B": "Sec\u7400\u6900on:",
+      "C": "query caching",
+      "D": "OneLake integra\u7400\u6900on"
+    },
+    "correct_answer": "p",
+    "explanation": "",
+    "category": "maintain_analytics_solution"
+  },
+  {
+    "id": 10,
+    "question": "You have a Fabric tenant that contains 30 CSV \u6600\u6900les in OneLake. The \u6600\u6900les are updated daily. You create a Microso\u6600\u7400 Power Bl seman\u7400\u6900c model named Modell tha t uses the CSV \u6600\u6900les as a data source. You con\u6600\u6900gure incremental refresh for Model 1 and publish the model to a Premium capacit y in the Fabric tenant. When you ini\u7400\u6900ate a refresh of Model1, the refresh fails a\u6600\u7400er r unning out of resources. What is a possible cause of the failure? A.Query folding is occurring. B.Only refresh complete days is selected. C.XMLA Endpoint is set to Read Only. D.Query folding is NOT occurring. E.The data type of the column used to par\u7400\u6900\u7400\u6900on the data has change d. Correct Answer: E Sec\u7400\u6900on:",
+    "options": {
+      "V": "\u6600\u6900les as a data source. You con\u6600\u6900gure incremental refresh for Model 1 and publish the model to a Premium capacit y in the Fabric tenant. When you ini\u7400\u6900ate a refresh of Model1, the refresh fails a\u6600\u7400er r unning out of resources. What is a possible cause of the failure?",
+      "A": "Endpoint is set to Read Only.",
+      "B": "Only refresh complete days is selected.",
+      "C": "XML",
+      "D": "Query folding is NO",
+      "T": "occurring.",
+      "E": "Sec\u7400\u6900on:"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 11,
+    "question": "You have a Fabric tenant that uses a Microso\u6600\u7400 tower Bl Premium capacity. You need to enable scale-out for a seman\u7400\u6900c model. W hat should you do \u6600\u6900rst? A.At the seman\u7400\u6900c model level, set Large dataset storage format to O\u6600\u6600. B.At the tenant level, set Create and use Metrics to Enabled. C.At the seman\u7400\u6900c model level, set Large dataset storage format to On. D.At the tenant level, set Data Ac\u7400\u6900vator to Enabled. Correct Answer: C Sec\u7400\u6900on:",
+    "options": {
+      "W": "hat should you do \u6600\u6900rst?",
+      "A": "At the seman\u7400\u6900c model level, set Large dataset storage format to O\u6600\u6600.",
+      "B": "At the tenant level, set Create and use Metrics to Enabled.",
+      "C": "Sec\u7400\u6900on:",
+      "D": "At the tenant level, set Data Ac\u7400\u6900vator to Enabled."
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 12,
+    "question": "You have a Fabric tenant that contains a warehouse. The wareh ouse uses row-level security (RLS). You create a Direct Lake seman\u7400\u6900c model that uses the Delta tables and RLS of the wareho use. When users interact with a report built from the model, which mode will be used by the DAX queries? A.DirectQuery B.Dual C.Direct Lake D.Import Correct Answer: C Sec\u7400\u6900on:",
+    "options": {
+      "S": "of the wareho use. When users interact with a report built from the model, which mode will be used by the DA",
+      "X": "queries?",
+      "A": "DirectQuery",
+      "B": "Dual",
+      "C": "Sec\u7400\u6900on:",
+      "D": "Import"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "category": "semantic_models"
+  },
+  {
+    "id": 13,
+    "question": "IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 You have a Fabric tenant that contains a complex seman\u7400\u6900c mode l. The model is based on a star schema and contains many tables , including a fact table named Sales. You need to create a diag ram of the model. The diagram must contain only the Sales table and related tables. What sh ould you use from Microso\u6600\u7400 Power Bl Desktop? A.data categories B.Data view C.Model view D.DAX query view Correct Answer: C Sec\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 You have a Fabric tenant that contains a complex seman\u7400\u6900c mode l. The model is based on a star schema and contains many tables , including a fact table named Sales. You need to create a diag ram of the model. The diagram must contain only the Sales table and related tables. What sh ould you use from Microso\u6600\u7400 Power Bl Desktop?",
+      "A": "data categories",
+      "B": "Data view",
+      "C": "Sec\u7400\u6900on:",
+      "D": "DA",
+      "X": "query view"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 14,
+    "question": "You have a Fabric tenant that contains a seman\u7400\u6900c model. The mo del uses Direct Lake mode. You suspect that some DAX queries load unnecessary columns i nto memory. You need to iden\u7400\u6900fy the frequently used columns that are load ed into memory. What are two ways to achieve the goal? Each correct answer pre sents a complete solu\u7400\u6900on. NOTE: Each correct answer is worth one point. A.Use the Analyze in Excel feature. B.Use the Ver\u7400\u6900paq Analyzer tool. C.Query the $system.discovered_STORAGE_TABLE_COLUMN-iN_ SEGMeNTS dynamic management view (DMV). D.Query the discover_hehory6Rant dynamic management view (D MV). Correct Answer: B, C Sec\u7400\u6900on:",
+    "options": {
+      "X": "queries load unnecessary columns i nto memory. You need to iden\u7400\u6900fy the frequently used columns that are load ed into memory. What are two ways to achieve the goal? Each correct answer pre sents a complete solu\u7400\u6900on. NOT",
+      "E": "Each correct answer is worth one point.",
+      "A": "Use the Analyze in Excel feature.",
+      "B": "Use the Ver\u7400\u6900paq Analyzer tool.",
+      "C": "Sec\u7400\u6900on:",
+      "S": "dynamic management view (DMV).",
+      "D": "MV)."
+    },
+    "correct_answer": "p",
+    "explanation": "",
+    "category": "semantic_models"
+  },
+  {
+    "id": 15,
+    "question": "You have a Fabric tenant that contains a warehouse. Several \u7400\u6900mes a day. the performance of all warehouse queries degrades. You suspect that Fabric is thro\u7400\u7400ling the compute u sed by the warehouse. What should you use to iden\u7400\u6900fy whether thro\u7400\u7400ling is occurrin g?",
+    "options": {
+      "A": "the Capacity se\u7400\u7d00ngs",
+      "B": "Sec\u7400\u6900on:",
+      "C": "dynamic management views (DMVs)",
+      "D": "the Microso\u6600\u7400 Fabric Capacity Metrics app"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 16,
+    "question": "HOTSPOT You have a Fabric workspace that uses the default Spark start er pool and run\u7400\u6900me version 1,2. You plan to read a CSV \u6600\u6900le named Sales.raw.csv in a lakehouse, select columns, and save the data as a Delta table to the manag ed area of the lakehouse. Sales_raw.csv contains 12 columns . You have the following code. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 For each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOTE: Each correct selec \u7400\u6900on is worth one point. Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "V": "\u6600\u6900le named Sales.raw.csv in a lakehouse, select columns, and save the data as a Delta table to the manag ed area of the lakehouse. Sales_raw.csv contains 12 columns . You have the following code. I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 For each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOT",
+      "E": "Each correct selec \u7400\u6900on is worth one point. Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "maintain_analytics_solution"
+  },
+  {
+    "id": 17,
+    "question": "You have a Fabric tenant that contains a warehouse. A user discovers that a report that usually takes two minutes to render has been running for 45 minutes and has s\u7400\u6900ll not rend ered. You need to iden\u7400\u6900fy what is preven\u7400\u6900ng the report query from co mple\u7400\u6900ng. Which dynamic management view (DMV) should you use?",
+    "options": {
+      "A": "Sec\u7400\u6900on:",
+      "B": "sys.dn_.exec._sessions",
+      "C": "sys.dm._exec._connec\u7400\u6900ons",
+      "D": "sys.dm_pdw_exec_requests I",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 18,
+    "question": "DRAG DROP You are crea\u7400\u6900ng a data\u6600\u6c00ow in Fabric to ingest data from an Azur e SQL database by using a T-SQL statement. You need to ensure that any foldable Power Query transforma\u7400\u6900 on steps are processed by the Microso\u6600\u7400 SQL Server engine. How should you complete the code? To answer, drag the appropr iate values to the correct targets. Each value may be used onc e, more than once, or not at all. You may need to drag the split b ar between panes or scroll to view content. NOTE: Each correct selec\u7400\u6900on is worth one point. Select and Place: Correct Answer: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "G": "DRO",
+      "P": "You are crea\u7400\u6900ng a data\u6600\u6c00ow in Fabric to ingest data from an Azur e SQ",
+      "L": "Server engine. How should you complete the code? To answer, drag the appropr iate values to the correct targets. Each value may be used onc e, more than once, or not at all. You may need to drag the split b ar between panes or scroll to view content. NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Select and Place:",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": "I",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 19,
+    "question": "DRAG DROP You have a Fabric tenant that contains a lakehouse named Lake house1 Readings from 100 loT devices are appended to a Delta table in Lakehouse1. Each set of readings is approximately 25 KB. App roximately 10 GB of data is received daily. All the table and SparkSession se\u7400\u7d00ngs are set to the default. You discover that queries are slow to execute. In addi\u7400\u6900on, th e lakehouse storage contains data and log \u6600\u6900les that are no lon ger used. You need to remove the \u6600\u6900les that are no longer used and combine small \u6600\u6900les into larger \u6600\u6900les with a target size of 1 GB per \u6600\u6900le. What should you do? To answer, drag the appropriate ac\u7400\u6900ons to the correct requirements. Each ac\u7400\u6900on may be used once, more t han once, or not at all. You may need to drag the split bar betwe en panes or scroll to view content. NOTE: Each correct selec\u7400\u6900on is worth one point. Select and Place: Correct Answer: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "G": "DRO",
+      "P": "You have a Fabric tenant that contains a lakehouse named Lake house1 Readings from 100 lo",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "B": "per \u6600\u6900le. What should you do? To answer, drag the appropriate ac\u7400\u6900ons to the correct requirements. Each ac\u7400\u6900on may be used once, more t han once, or not at all. You may need to drag the split bar betwe en panes or scroll to view content. NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Select and Place:",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": "I",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 20,
+    "question": "You need to create a data loading pa\u7400\u7400ern for a Type 1 slowly cha nging dimension (SCD). Which two ac\u7400\u6900ons should you include in the process? Each corr ect answer presents part of the solu\u7400\u6900on. NOTE: Each correct answer is worth one point. A.Update rows when the non-key a\u7400\u7400ributes have changed. B.Insert new rows when the natural key exists in the dimension t able, and the non-key a\u7400\u7400ribute values have changed. C.Update the e\u6600\u6600ec\u7400\u6900ve end date of rows when the non-key a\u7400\u7400ribute values have changed. D.Insert new records when the natural key is a new value in the ta ble. Correct Answer: A, D Sec\u7400\u6900on:",
+    "options": {
+      "E": "Each correct answer is worth one point.",
+      "A": "Update rows when the non-key a\u7400\u7400ributes have changed.",
+      "B": "Insert new rows when the natural key exists in the dimension t able, and the non-key a\u7400\u7400ribute values have changed.",
+      "C": "Update the e\u6600\u6600ec\u7400\u6900ve end date of rows when the non-key a\u7400\u7400ribute values have changed.",
+      "D": "Sec\u7400\u6900on:"
+    },
+    "correct_answer": "i",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 21,
+    "question": "HOTSPOT You have a Fabric workspace named Workspace1 and an Azure Dat a Lake Storage Gen2 account named storage'!. Workspace1 con tains a lakehouse named Lakehouse1. You need to create a shortcut to storage! in Lakehouse1. Which connec\u7400\u6900on and endpoint should you specify? To answer, select the appropriate op\u7400\u6900ons in the answer area. NOTE: Each correct selec\u7400\u6900on is worth one point. Hot Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Hot Area: I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "maintain_analytics_solution"
+  },
+  {
+    "id": 22,
+    "question": "You are analyzing customer purchases in a Fabric notebook by using PySpanc You have the following DataFrames: You need to join the DataFrames on the customer_id column. Th e solu\u7400\u6900on must minimize data shu\u6600\u6e00ing. You write the followin g code. Which code should you run to populate the results DataFrame? A) B) C) D) IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 A.Op\u7400\u6900on A B.Op\u7400\u6900on B C.Op\u7400\u6900on C D.Op\u7400\u6900on D Correct Answer: A Sec\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416",
+      "A": "Sec\u7400\u6900on:",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 23,
+    "question": "HOTSPOT You have a Microso\u6600\u7400 Power B1 report and a seman\u7400\u6900c model that us es Direct Lake mode. From Power Si Desktop, you open Performa nce analyzer as shown in the following exhibit. Use the drop-down menus to select the answer choice that comp letes each statement based on the informa\u7400\u6900on presented in th e graphic. NOTE: Each correct selec\u7400\u6900on is worth one point. Hot Area: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Hot Area: I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "semantic_models"
+  },
+  {
+    "id": 24,
+    "question": "You have a Fabric tenant that contains a lakehouse named lake house1. Lakehouse1 contains an unpar\u7400\u6900\u7400\u6900oned table named Tab le1. You plan to copy data to Table1 and par\u7400\u6900\u7400\u6900on the table based on a date column in the source data. You create a Copy ac\u7400\u6900vity to copy the data to Table1. You need to specify the par\u7400\u6900\u7400\u6900on column in the Des\u7400\u6900na\u7400\u6900on se\u7400\u7d00ng s of the Copy ac\u7400\u6900vity. What should you do \u6600\u6900rst?",
+    "options": {
+      "A": "From the Des\u7400\u6900na\u7400\u6900on tab, set Mode to Append.",
+      "B": "Sec\u7400\u6900on:",
+      "C": "From the Source tab, select Enable par\u7400\u6900\u7400\u6900on discovery",
+      "D": "From the Des\u7400\u6900na\u7400\u6900on tab, set Mode to Overwrite."
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 25,
+    "question": "HOTSPOT IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 You have a Fabric tenant that contains a warehouse named Ware house1. Warehouse1 contains a fact table named FactSales th at has one billion rows. You run the following T-SQL statemen t. CREATE TABLE test.FactSales AS CLONE OF Dbo.FactSales; For each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOTE: Each correct selec \u7400\u6900on is worth one point. Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 You have a Fabric tenant that contains a warehouse named Ware house1. Warehouse1 contains a fact table named FactSales th at has one billion rows. You run the following T-SQ",
+      "L": "statemen t. CREAT",
+      "E": "Each correct selec \u7400\u6900on is worth one point. Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+      "S": "CLON",
+      "F": "Dbo.FactSales; For each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOT"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 26,
+    "question": "You have source data in a folder on a local computer. You need to create a solu\u7400\u6900on that will use Fabric to populate a data store. The solu\u7400\u6900on must meet the following requirement s: * Support the use of data\u6600\u6c00ows to load and append data to the dat a store. * Ensure that Delta tables are V-Order op\u7400\u6900mized and compacte d automa\u7400\u6900cally. Which type of data store should you use?",
+    "options": {
+      "A": "Sec\u7400\u6900on:",
+      "B": "an Azure SQ",
+      "L": "database",
+      "C": "a warehouse",
+      "D": "a KQ"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 27,
+    "question": "HOTSPOT You have a Fabric tenant that contains a lakehouse. You are using a Fabric notebook to save a large DataFrame by us ing the following code. For each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOTE: Each correct selec\u7400\u6900on is worth one point. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "E": "Each correct selec\u7400\u6900on is worth one point. I",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 28,
+    "question": "HOTSPOT You have the source data model shown in the following exhibit . The primary keys of the tables are indicated by a key symbol be side the columns involved in each key. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 You need to create a dimensional data model that will enable t he analysis of order items by date, product, and customer. What should you include in the solu\u7400\u6900on? To answer, select the appropriate op\u7400\u6900ons in the answer area. NOTE: Each correct selec\u7400\u6900on is worth one point. Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416 You need to create a dimensional data model that will enable t he analysis of order items by date, product, and customer. What should you include in the solu\u7400\u6900on? To answer, select the appropriate op\u7400\u6900ons in the answer area. NOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point. Hot Area: Answer Area: Sec\u7400\u6900on: Explana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 29,
+    "question": "You have a Fabric tenant that contains a seman\u7400\u6900c model named M odel1. Model1 uses Import mode. Model1 contains a table name d Orders. Orders has 100 million rows and the following \u6600\u6900elds . You need to reduce the memory used by Model! and the \u7400\u6900me it take s to refresh the model. Which two ac\u7400\u6900ons should you perform? E ach correct answer presents part of the solu\u7400\u6900on. NOTE: Each c orrect answer is worth one point. A.Split OrderDateTime into separate date and \u7400\u6900me columns. B.Replace TotalQuan\u7400\u6900ty with a calculated column. C.Convert Quan\u7400\u6900ty into the Text data type. D.Replace TotalSalesAmount with a measure. IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416 Correct Answer: A, D Sec\u7400\u6900on:",
+    "options": {
+      "M": "odel1. Model1 uses Import mode. Model1 contains a table name d Orders. Orders has 100 million rows and the following \u6600\u6900elds . You need to reduce the memory used by Model! and the \u7400\u6900me it take s to refresh the model. Which two ac\u7400\u6900ons should you perform?",
+      "E": "Each c orrect answer is worth one point.",
+      "A": "Split OrderDateTime into separate date and \u7400\u6900me columns.",
+      "B": "Replace TotalQuan\u7400\u6900ty with a calculated column.",
+      "C": "Convert Quan\u7400\u6900ty into the Text data type.",
+      "D": "Sec\u7400\u6900on:",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416"
+    },
+    "correct_answer": "p",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "id": 30,
+    "question": "You have a Fabric tenant that contains a seman\u7400\u6900c model. You need to prevent report creators from popula\u7400\u6900ng visuals b y using implicit measures. What are two tools that you can use to achieve the goal? Each co rrect answer presents a complete solu\u7400\u6900on. NOTE: Each correct answer is worth one point. A.Microso\u6600\u7400 Power BI Desktop B.Tabular Editor C.Microso\u6600\u7400 SQL Server Management Studio (SSMS) D.DAX Studio Correct Answer: A, B Sec\u7400\u6900on: IT Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam J (samsjha@gmail.com) lOMoARcPSD|43654416",
+    "options": {
+      "E": "Each correct answer is worth one point.",
+      "A": "Microso\u6600\u7400 Power B",
+      "I": "Desktop",
+      "B": "Sec\u7400\u6900on: I",
+      "C": "Microso\u6600\u7400 SQ",
+      "L": "Server Management Studio (SSMS)",
+      "D": "DA",
+      "X": "Studio",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io www.VCEplus.io Downloaded by Sam",
+      "J": "(samsjha@gmail.com) lOMoARcPSD|43654416"
+    },
+    "correct_answer": "i",
+    "explanation": "",
+    "category": "prepare_data"
+  },
+  {
+    "question": "Which feature would you use to implement workspace-level access controls in Microsoft Fabric?",
+    "options": {
+      "A": "The Workspace-level access controls panel in the workspace settings",
+      "B": "The Security tab in the Workspace-level access controls section",
+      "C": "The Admin portal Workspace-level access controls configuration",
+      "D": "The Workspace-level access controls API through PowerShell"
+    },
+    "correct_answer": "A",
+    "explanation": "The Workspace-level access controls panel in workspace settings is the primary way to configure this feature in Microsoft Fabric.",
+    "category": "maintain_analytics_solution",
+    "id": 31
+  },
+  {
+    "question": "What is the primary benefit of implementing item-level access controls in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing Item-level access controls primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 32
+  },
+  {
+    "question": "Which feature would you use to implement row-level, column-level, object-level, and file-level access control in Microsoft Fabric?",
+    "options": {
+      "A": "The Row-level, column-level, object-level, and file-level access control panel in the workspace settings",
+      "B": "The Security tab in the Row-level, column-level, object-level, and file-level access control section",
+      "C": "The Admin portal Row-level, column-level, object-level, and file-level access control configuration",
+      "D": "The Row-level, column-level, object-level, and file-level access control API through PowerShell"
+    },
+    "correct_answer": "A",
+    "explanation": "The Row-level, column-level, object-level, and file-level access control panel in workspace settings is the primary way to configure this feature in Microsoft Fabric.",
+    "category": "maintain_analytics_solution",
+    "id": 33
+  },
+  {
+    "question": "What is the primary benefit of implementing sensitivity labels in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing Sensitivity labels primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 34
+  },
+  {
+    "question": "Which feature would you use to implement item endorsement in Microsoft Fabric?",
+    "options": {
+      "A": "The Item endorsement panel in the workspace settings",
+      "B": "The Security tab in the Item endorsement section",
+      "C": "The Admin portal Item endorsement configuration",
+      "D": "The Item endorsement API through PowerShell"
+    },
+    "correct_answer": "A",
+    "explanation": "The Item endorsement panel in workspace settings is the primary way to configure this feature in Microsoft Fabric.",
+    "category": "maintain_analytics_solution",
+    "id": 35
+  },
+  {
+    "question": "What is the primary benefit of implementing version control for workspace in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing Version control for workspace primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 36
+  },
+  {
+    "question": "What is the primary benefit of implementing power bi desktop project (.pbip) in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing Power BI Desktop project (.pbip) primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 37
+  },
+  {
+    "question": "Which feature would you use to implement deployment pipelines in Microsoft Fabric?",
+    "options": {
+      "A": "The Deployment pipelines panel in the workspace settings",
+      "B": "The Security tab in the Deployment pipelines section",
+      "C": "The Admin portal Deployment pipelines configuration",
+      "D": "The Deployment pipelines API through PowerShell"
+    },
+    "correct_answer": "A",
+    "explanation": "The Deployment pipelines panel in workspace settings is the primary way to configure this feature in Microsoft Fabric.",
+    "category": "maintain_analytics_solution",
+    "id": 38
+  },
+  {
+    "question": "What is the primary benefit of implementing impact analysis of downstream dependencies in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing Impact analysis of downstream dependencies primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 39
+  },
+  {
+    "question": "What is the primary benefit of implementing xmla endpoint for semantic models in a Microsoft Fabric workspace?",
+    "options": {
+      "A": "Reduced storage costs",
+      "B": "Improved query performance",
+      "C": "Enhanced security and compliance",
+      "D": "Simplified user interface"
+    },
+    "correct_answer": "C",
+    "explanation": "Implementing XMLA endpoint for semantic models primarily enhances security and compliance in Microsoft Fabric workspaces.",
+    "category": "maintain_analytics_solution",
+    "id": 40
+  },
+  {
+    "question": "Which feature would you use to implement reusable assets (templates, data sources, shared models) in Microsoft Fabric?",
+    "options": {
+      "A": "The Reusable assets (templates, data sources, shared models) panel in the workspace settings",
+      "B": "The Security tab in the Reusable assets (templates, data sources, shared models) section",
+      "C": "The Admin portal Reusable assets (templates, data sources, shared models) configuration",
+      "D": "The Reusable assets (templates, data sources, shared models) API through PowerShell"
+    },
+    "correct_answer": "A",
+    "explanation": "The Reusable assets (templates, data sources, shared models) panel in workspace settings is the primary way to configure this feature in Microsoft Fabric.",
+    "category": "maintain_analytics_solution",
+    "id": 41
+  },
+  {
+    "question": "When working with data connections in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Data connections",
+      "B": "Write custom code to implement Data connections",
+      "C": "Use pre-built templates for Data connections",
+      "D": "Outsource Data connections to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Data connections in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 42
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing onelake data hub and real-time hub?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing OneLake data hub and real-time hub due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 43
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing data ingestion and access?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing Data ingestion and access due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 44
+  },
+  {
+    "question": "When working with lakehouse, warehouse, or eventhouse selection in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Lakehouse, warehouse, or eventhouse selection",
+      "B": "Write custom code to implement Lakehouse, warehouse, or eventhouse selection",
+      "C": "Use pre-built templates for Lakehouse, warehouse, or eventhouse selection",
+      "D": "Outsource Lakehouse, warehouse, or eventhouse selection to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Lakehouse, warehouse, or eventhouse selection in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 45
+  },
+  {
+    "question": "When working with onelake integration in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure OneLake integration",
+      "B": "Write custom code to implement OneLake integration",
+      "C": "Use pre-built templates for OneLake integration",
+      "D": "Outsource OneLake integration to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure OneLake integration in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 46
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing views, functions, and stored procedures?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing Views, functions, and stored procedures due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 47
+  },
+  {
+    "question": "When working with data enrichment in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Data enrichment",
+      "B": "Write custom code to implement Data enrichment",
+      "C": "Use pre-built templates for Data enrichment",
+      "D": "Outsource Data enrichment to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Data enrichment in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 48
+  },
+  {
+    "question": "When working with star schema implementation in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Star schema implementation",
+      "B": "Write custom code to implement Star schema implementation",
+      "C": "Use pre-built templates for Star schema implementation",
+      "D": "Outsource Star schema implementation to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Star schema implementation in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 49
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing data denormalization?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing Data denormalization due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 50
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing data aggregation?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing Data aggregation due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 51
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing merging and joining data?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing Merging and joining data due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 52
+  },
+  {
+    "question": "When working with handling duplicate, missing, or null data in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Handling duplicate, missing, or null data",
+      "B": "Write custom code to implement Handling duplicate, missing, or null data",
+      "C": "Use pre-built templates for Handling duplicate, missing, or null data",
+      "D": "Outsource Handling duplicate, missing, or null data to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Handling duplicate, missing, or null data in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 53
+  },
+  {
+    "question": "When working with data type conversion in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Data type conversion",
+      "B": "Write custom code to implement Data type conversion",
+      "C": "Use pre-built templates for Data type conversion",
+      "D": "Outsource Data type conversion to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Data type conversion in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 54
+  },
+  {
+    "question": "Which component in Microsoft Fabric is best suited for implementing data filtering?",
+    "options": {
+      "A": "Data Warehouse",
+      "B": "Lakehouse",
+      "C": "Dataflow",
+      "D": "Semantic Model"
+    },
+    "correct_answer": "B",
+    "explanation": "Lakehouse is typically the best component for implementing Data filtering due to its flexibility and performance characteristics.",
+    "category": "prepare_data",
+    "id": 55
+  },
+  {
+    "question": "When working with visual query editor in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure Visual Query Editor",
+      "B": "Write custom code to implement Visual Query Editor",
+      "C": "Use pre-built templates for Visual Query Editor",
+      "D": "Outsource Visual Query Editor to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure Visual Query Editor in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 56
+  },
+  {
+    "question": "When working with sql queries in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure SQL queries",
+      "B": "Write custom code to implement SQL queries",
+      "C": "Use pre-built templates for SQL queries",
+      "D": "Outsource SQL queries to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure SQL queries in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 57
+  },
+  {
+    "question": "When working with kql queries in Microsoft Fabric, which approach is recommended?",
+    "options": {
+      "A": "Use the visual interface to configure KQL queries",
+      "B": "Write custom code to implement KQL queries",
+      "C": "Use pre-built templates for KQL queries",
+      "D": "Outsource KQL queries to external services"
+    },
+    "correct_answer": "A",
+    "explanation": "The visual interface provides the most efficient way to configure KQL queries in Microsoft Fabric.",
+    "category": "prepare_data",
+    "id": 58
+  },
+  {
+    "question": "Which performance issue might occur if storage mode selection is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of Storage mode selection can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 59
+  },
+  {
+    "question": "Which performance issue might occur if star schema implementation is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of Star schema implementation can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 60
+  },
+  {
+    "question": "Which performance issue might occur if relationship implementation is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of Relationship implementation can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 61
+  },
+  {
+    "question": "Which performance issue might occur if dax calculations is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of DAX calculations can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 62
+  },
+  {
+    "question": "What is the best practice for calculation groups and format strings in a large-scale semantic model?",
+    "options": {
+      "A": "Implement it at the data source level",
+      "B": "Configure it in the model properties",
+      "C": "Use DAX to define it programmatically",
+      "D": "Apply it through the XMLA endpoint"
+    },
+    "correct_answer": "B",
+    "explanation": "Configuring Calculation groups and format strings in model properties is the recommended approach for large-scale semantic models.",
+    "category": "semantic_models",
+    "id": 63
+  },
+  {
+    "question": "What is the best practice for large semantic model storage in a large-scale semantic model?",
+    "options": {
+      "A": "Implement it at the data source level",
+      "B": "Configure it in the model properties",
+      "C": "Use DAX to define it programmatically",
+      "D": "Apply it through the XMLA endpoint"
+    },
+    "correct_answer": "B",
+    "explanation": "Configuring Large semantic model storage in model properties is the recommended approach for large-scale semantic models.",
+    "category": "semantic_models",
+    "id": 64
+  },
+  {
+    "question": "Which performance issue might occur if composite models is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of Composite models can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 65
+  },
+  {
+    "question": "What is the best practice for query and visual performance improvements in a large-scale semantic model?",
+    "options": {
+      "A": "Implement it at the data source level",
+      "B": "Configure it in the model properties",
+      "C": "Use DAX to define it programmatically",
+      "D": "Apply it through the XMLA endpoint"
+    },
+    "correct_answer": "B",
+    "explanation": "Configuring Query and visual performance improvements in model properties is the recommended approach for large-scale semantic models.",
+    "category": "semantic_models",
+    "id": 66
+  },
+  {
+    "question": "What is the best practice for dax performance optimization in a large-scale semantic model?",
+    "options": {
+      "A": "Implement it at the data source level",
+      "B": "Configure it in the model properties",
+      "C": "Use DAX to define it programmatically",
+      "D": "Apply it through the XMLA endpoint"
+    },
+    "correct_answer": "B",
+    "explanation": "Configuring DAX performance optimization in model properties is the recommended approach for large-scale semantic models.",
+    "category": "semantic_models",
+    "id": 67
+  },
+  {
+    "question": "Which performance issue might occur if direct lake configuration is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of Direct Lake configuration can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 68
+  },
+  {
+    "question": "Which performance issue might occur if incremental refresh is not properly implemented?",
+    "options": {
+      "A": "Slow query response times",
+      "B": "Increased memory usage",
+      "C": "Data inconsistencies",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Improper implementation of Incremental refresh can lead to multiple performance issues including slow queries, increased memory usage, and data inconsistencies.",
+    "category": "semantic_models",
+    "id": 69
+  }
+]

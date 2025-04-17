@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "You have a Fabric workspace named Workspace 1 that contains a data\u6600\u6c00ow named Data\u6600\u6c00ow1. Data\u6600\u6c00ow! has a query that returns 2. 000 rows. You view the query in Power Query as shown in the foll owing exhibit.\nWhat can you iden\u7400\u6900fy about the pickupLongitude column?",
+    "options": {
+      "A": "The column has duplicate values.",
+      "B": "Sec\u7400\u6900on:",
+      "C": "The column has missing values.",
+      "D": "There are 935 values that occur only once."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "question": "HOTSPOT\nYou to need assign permissions for the data store in the Analy \u7400\u6900csPOC workspace. The solu\u7400\u6900on must meet the security requir ements.\nWhich addi\u7400\u6900onal permissions should you assign when you shar e the data store? To answer, select the appropriate op\u7400\u6900ons in the answer area.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "C": "workspace. The solu\u7400\u6900on must meet the security requir ements.\nWhich addi\u7400\u6900onal permissions should you assign when you shar e the data store? To answer, select the appropriate op\u7400\u6900ons in the answer area.\nNOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "question": "HOTSPOT\nYou need to create a DAX measure to calculate the average over all sa\u7400\u6900sfac\u7400\u6900on score.\nHow should you complete the DAX code? To answer, select the ap propriate op\u7400\u6900ons in the answer area.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nHot Area:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "X": "code? To answer, select the ap propriate op\u7400\u6900ons in the answer area.\nNOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "question": "HOTSPOT\nYou need to resolve the issue with the pricing group classi\u6600\u6900c a\u7400\u6900on.\nHow should you complete the T-SQL statement? To answer, sele ct the appropriate op\u7400\u6900ons in the answer area.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nHot Area:\nAnswer Area:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "L": "statement? To answer, sele ct the appropriate op\u7400\u6900ons in the answer area.\nNOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "question": "What should you recommend using to ingest the customer data i nto the data store in the Anaty\u7400\u6900csPOC workspace?\nA.a stored procedure\nB.a pipeline that contains a KQL ac\u7400\u6900vity",
+    "options": {
+      "C": "a Spark notebook",
+      "A": "a stored procedure",
+      "B": "a pipeline that contains a KQ",
+      "L": "ac\u7400\u6900vity",
+      "D": "Sec\u7400\u6900on:"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "question": "Which type of data store should you recommend in the Analy\u7400\u6900cs POC workspace?\nA.a data lake\nB.a warehouse",
+    "options": {
+      "C": "Sec\u7400\u6900on:",
+      "A": "a data lake",
+      "B": "a warehouse",
+      "D": "an external Hive metaStore"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "question": "IT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou have a Fabric warehouse that contains a table named Stagi ng.Sales. Staging.Sales contains the following columns.\nYou need to write a T-SQL query that will return data for the ye ar 2023 that displays ProductID and ProductName arxl has a su mmarized Amount that is higher than 10,000. Which query shou ld you use?\nA)\nB)\nC)\nD)\nA.Op\u7400\u6900on A\nB.Op\u7400\u6900on B\nC.Op\u7400\u6900on C\nD.Op\u7400\u6900on D\nCorrect Answer: A\nSec\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou have a Fabric warehouse that contains a table named Stagi ng.Sales. Staging.Sales contains the following columns.\nYou need to write a T-SQ",
+      "L": "query that will return data for the ye ar 2023 that displays ProductI",
+      "D": "",
+      "A": "Sec\u7400\u6900on:",
+      "B": "",
+      "C": ""
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "question": "HOTSPOT\nYou have a data warehouse that contains a table named Stage. C ustomers. Stage-Customers contains all the customer recor d updates from a customer rela\u7400\u6900onship management (CRM) syst em. There can be mul\u7400\u6900ple updates\nper customer\nYou need to write a T-SQL query that will return the customer I D, name, postal code, and the last updated \u7400\u6900me of the most rece nt row for each customer ID.\nHow should you complete the code? To answer, select the appro priate op\u7400\u6900ons in the answer area,\nNOTE Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "C": "ustomers. Stage-Customers contains all the customer recor d updates from a customer rela\u7400\u6900onship management (CRM) syst em. There can be mul\u7400\u6900ple updates\nper customer\nYou need to write a T-SQ",
+      "L": "query that will return the customer",
+      "I": "D, name, postal code, and the last updated \u7400\u6900me of the most rece nt row for each customer I",
+      "D": "How should you complete the code? To answer, select the appro priate op\u7400\u6900ons in the answer area,\nNOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "question": "You have a Fabric workspace that contains a DirectQuery sema n\u7400\u6900c model. The model queries a data source that has 500 millio n rows.\nYou have a Microso\u6600\u7400 Power Bl report named Report1 that uses th e model. Report! contains visuals on mul\u7400\u6900ple pages.\nYou need to reduce the query execu\u7400\u6900on \u7400\u6900me for the visuals on al l the pages.\nWhat are two features that you can use? Each correct answer pr esents a complete solu\u7400\u6900on.\nNOTE: Each correct answer is worth one point.\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nA.user-de\u6600\u6900ned aggrega\u7400\u6900ons\nB.automa\u7400\u6900c aggrega\u7400\u6900on\nC.query caching\nD.OneLake integra\u7400\u6900on\nCorrect Answer: A, B\nSec\u7400\u6900on:",
+    "options": {
+      "E": "Each correct answer is worth one point.\nI",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416",
+      "A": "user-de\u6600\u6900ned aggrega\u7400\u6900ons",
+      "B": "Sec\u7400\u6900on:",
+      "C": "query caching",
+      "D": "OneLake integra\u7400\u6900on"
+    },
+    "correct_answer": "p",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "You have a Fabric tenant that contains 30 CSV \u6600\u6900les in OneLake. The \u6600\u6900les are updated daily.\nYou create a Microso\u6600\u7400 Power Bl seman\u7400\u6900c model named Modell tha t uses the CSV \u6600\u6900les as a data source. You con\u6600\u6900gure incremental refresh for Model 1 and publish the model to a Premium capacit y in the Fabric tenant.\nWhen you ini\u7400\u6900ate a refresh of Model1, the refresh fails a\u6600\u7400er r unning out of resources.\nWhat is a possible cause of the failure?\nA.Query folding is occurring.\nB.Only refresh complete days is selected.\nC.XMLA Endpoint is set to Read Only.\nD.Query folding is NOT occurring.\nE.The data type of the column used to par\u7400\u6900\u7400\u6900on the data has change d.\nCorrect Answer: E\nSec\u7400\u6900on:",
+    "options": {
+      "V": "\u6600\u6900les as a data source. You con\u6600\u6900gure incremental refresh for Model 1 and publish the model to a Premium capacit y in the Fabric tenant.\nWhen you ini\u7400\u6900ate a refresh of Model1, the refresh fails a\u6600\u7400er r unning out of resources.\nWhat is a possible cause of the failure?",
+      "A": "Endpoint is set to Read Only.",
+      "B": "Only refresh complete days is selected.",
+      "C": "XML",
+      "D": "Query folding is NO",
+      "T": "occurring.",
+      "E": "Sec\u7400\u6900on:"
+    },
+    "correct_answer": "E",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "question": "You have a Fabric tenant that uses a Microso\u6600\u7400 tower Bl Premium capacity. You need to enable scale-out for a seman\u7400\u6900c model. W hat should you do \u6600\u6900rst?\nA.At the seman\u7400\u6900c model level, set Large dataset storage format to O\u6600\u6600.\nB.At the tenant level, set Create and use Metrics to Enabled.\nC.At the seman\u7400\u6900c model level, set Large dataset storage format to On.\nD.At the tenant level, set Data Ac\u7400\u6900vator to Enabled.\nCorrect Answer: C\nSec\u7400\u6900on:",
+    "options": {
+      "W": "hat should you do \u6600\u6900rst?",
+      "A": "At the seman\u7400\u6900c model level, set Large dataset storage format to O\u6600\u6600.",
+      "B": "At the tenant level, set Create and use Metrics to Enabled.",
+      "C": "Sec\u7400\u6900on:",
+      "D": "At the tenant level, set Data Ac\u7400\u6900vator to Enabled."
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "question": "You have a Fabric tenant that contains a warehouse. The wareh ouse uses row-level security (RLS). You create a Direct Lake seman\u7400\u6900c model that uses the Delta tables and RLS of the wareho use. When users interact with a\nreport built from the model, which mode will be used by the DAX queries?\nA.DirectQuery\nB.Dual\nC.Direct Lake\nD.Import\nCorrect Answer: C\nSec\u7400\u6900on:",
+    "options": {
+      "S": "of the wareho use. When users interact with a\nreport built from the model, which mode will be used by the DA",
+      "X": "queries?",
+      "A": "DirectQuery",
+      "B": "Dual",
+      "C": "Sec\u7400\u6900on:",
+      "D": "Import"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "question": "IT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou have a Fabric tenant that contains a complex seman\u7400\u6900c mode l. The model is based on a star schema and contains many tables , including a fact table named Sales. You need to create a diag ram of the model. The diagram\nmust contain only the Sales table and related tables. What sh ould you use from Microso\u6600\u7400 Power Bl Desktop?\nA.data categories\nB.Data view\nC.Model view\nD.DAX query view\nCorrect Answer: C\nSec\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou have a Fabric tenant that contains a complex seman\u7400\u6900c mode l. The model is based on a star schema and contains many tables , including a fact table named Sales. You need to create a diag ram of the model. The diagram\nmust contain only the Sales table and related tables. What sh ould you use from Microso\u6600\u7400 Power Bl Desktop?",
+      "A": "data categories",
+      "B": "Data view",
+      "C": "Sec\u7400\u6900on:",
+      "D": "DA",
+      "X": "query view"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "question": "You have a Fabric tenant that contains a seman\u7400\u6900c model. The mo del uses Direct Lake mode.\nYou suspect that some DAX queries load unnecessary columns i nto memory.\nYou need to iden\u7400\u6900fy the frequently used columns that are load ed into memory.\nWhat are two ways to achieve the goal? Each correct answer pre sents a complete solu\u7400\u6900on.\nNOTE: Each correct answer is worth one point.\nA.Use the Analyze in Excel feature.\nB.Use the Ver\u7400\u6900paq Analyzer tool.\nC.Query the $system.discovered_STORAGE_TABLE_COLUMN-iN_ SEGMeNTS dynamic management view (DMV).\nD.Query the discover_hehory6Rant dynamic management view (D MV).\nCorrect Answer: B, C\nSec\u7400\u6900on:",
+    "options": {
+      "X": "queries load unnecessary columns i nto memory.\nYou need to iden\u7400\u6900fy the frequently used columns that are load ed into memory.\nWhat are two ways to achieve the goal? Each correct answer pre sents a complete solu\u7400\u6900on.\nNOT",
+      "E": "Each correct answer is worth one point.",
+      "A": "Use the Analyze in Excel feature.",
+      "B": "Use the Ver\u7400\u6900paq Analyzer tool.",
+      "C": "Sec\u7400\u6900on:",
+      "S": "dynamic management view (DMV).",
+      "D": "MV)."
+    },
+    "correct_answer": "p",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "You have a Fabric tenant that contains a warehouse.\nSeveral \u7400\u6900mes a day. the performance of all warehouse queries degrades. You suspect that Fabric is thro\u7400\u7400ling the compute u sed by the warehouse.\nWhat should you use to iden\u7400\u6900fy whether thro\u7400\u7400ling is occurrin g?",
+    "options": {
+      "A": "the Capacity se\u7400\u7d00ngs",
+      "B": "Sec\u7400\u6900on:",
+      "C": "dynamic management views (DMVs)",
+      "D": "the Microso\u6600\u7400 Fabric Capacity Metrics app"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "question": "HOTSPOT\nYou have a Fabric workspace that uses the default Spark start er pool and run\u7400\u6900me version 1,2.\nYou plan to read a CSV \u6600\u6900le named Sales.raw.csv in a lakehouse, select columns, and save the data as a Delta table to the manag ed area of the lakehouse. Sales_raw.csv contains 12 columns .\nYou have the following code.\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nFor each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOTE: Each correct selec \u7400\u6900on is worth one point.\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "V": "\u6600\u6900le named Sales.raw.csv in a lakehouse, select columns, and save the data as a Delta table to the manag ed area of the lakehouse. Sales_raw.csv contains 12 columns .\nYou have the following code.\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nFor each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOT",
+      "E": "Each correct selec \u7400\u6900on is worth one point.\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "You have a Fabric tenant that contains a warehouse.\nA user discovers that a report that usually takes two minutes to render has been running for 45 minutes and has s\u7400\u6900ll not rend ered.\nYou need to iden\u7400\u6900fy what is preven\u7400\u6900ng the report query from co mple\u7400\u6900ng.\nWhich dynamic management view (DMV) should you use?",
+    "options": {
+      "A": "Sec\u7400\u6900on:",
+      "B": "sys.dn_.exec._sessions",
+      "C": "sys.dm._exec._connec\u7400\u6900ons",
+      "D": "sys.dm_pdw_exec_requests\nI",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "question": "DRAG DROP\nYou are crea\u7400\u6900ng a data\u6600\u6c00ow in Fabric to ingest data from an Azur e SQL database by using a T-SQL statement.\nYou need to ensure that any foldable Power Query transforma\u7400\u6900 on steps are processed by the Microso\u6600\u7400 SQL Server engine.\nHow should you complete the code? To answer, drag the appropr iate values to the correct targets. Each value may be used onc e, more than once, or not at all. You may need to drag the split b ar between panes or scroll to\nview content.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nSelect and Place:\nCorrect Answer:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "G": "DRO",
+      "P": "You are crea\u7400\u6900ng a data\u6600\u6c00ow in Fabric to ingest data from an Azur e SQ",
+      "L": "Server engine.\nHow should you complete the code? To answer, drag the appropr iate values to the correct targets. Each value may be used onc e, more than once, or not at all. You may need to drag the split b ar between panes or scroll to\nview content.\nNOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nSelect and Place:",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": "I",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "question": "DRAG DROP\nYou have a Fabric tenant that contains a lakehouse named Lake house1\nReadings from 100 loT devices are appended to a Delta table in Lakehouse1. Each set of readings is approximately 25 KB. App roximately 10 GB of data is received daily.\nAll the table and SparkSession se\u7400\u7d00ngs are set to the default.\nYou discover that queries are slow to execute. In addi\u7400\u6900on, th e lakehouse storage contains data and log \u6600\u6900les that are no lon ger used.\nYou need to remove the \u6600\u6900les that are no longer used and combine small \u6600\u6900les into larger \u6600\u6900les with a target size of 1 GB per \u6600\u6900le.\nWhat should you do? To answer, drag the appropriate ac\u7400\u6900ons to the correct requirements. Each ac\u7400\u6900on may be used once, more t han once, or not at all. You may need to drag the split bar betwe en panes or scroll to view\ncontent.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nSelect and Place:\nCorrect Answer:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "G": "DRO",
+      "P": "You have a Fabric tenant that contains a lakehouse named Lake house1\nReadings from 100 lo",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "B": "per \u6600\u6900le.\nWhat should you do? To answer, drag the appropriate ac\u7400\u6900ons to the correct requirements. Each ac\u7400\u6900on may be used once, more t han once, or not at all. You may need to drag the split bar betwe en panes or scroll to view\ncontent.\nNOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nSelect and Place:",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": "I",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "question": "You need to create a data loading pa\u7400\u7400ern for a Type 1 slowly cha nging dimension (SCD).\nWhich two ac\u7400\u6900ons should you include in the process? Each corr ect answer presents part of the solu\u7400\u6900on.\nNOTE: Each correct answer is worth one point.\nA.Update rows when the non-key a\u7400\u7400ributes have changed.\nB.Insert new rows when the natural key exists in the dimension t able, and the non-key a\u7400\u7400ribute values have changed.\nC.Update the e\u6600\u6600ec\u7400\u6900ve end date of rows when the non-key a\u7400\u7400ribute values have changed.\nD.Insert new records when the natural key is a new value in the ta ble.\nCorrect Answer: A, D\nSec\u7400\u6900on:",
+    "options": {
+      "E": "Each correct answer is worth one point.",
+      "A": "Update rows when the non-key a\u7400\u7400ributes have changed.",
+      "B": "Insert new rows when the natural key exists in the dimension t able, and the non-key a\u7400\u7400ribute values have changed.",
+      "C": "Update the e\u6600\u6600ec\u7400\u6900ve end date of rows when the non-key a\u7400\u7400ribute values have changed.",
+      "D": "Sec\u7400\u6900on:"
+    },
+    "correct_answer": "i",
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "question": "HOTSPOT\nYou have a Fabric workspace named Workspace1 and an Azure Dat a Lake Storage Gen2 account named storage'!. Workspace1 con tains a lakehouse named Lakehouse1.\nYou need to create a shortcut to storage! in Lakehouse1.\nWhich connec\u7400\u6900on and endpoint should you specify? To answer, select the appropriate op\u7400\u6900ons in the answer area.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "question": "You are analyzing customer purchases in a Fabric notebook by using PySpanc You have the following DataFrames:\nYou need to join the DataFrames on the customer_id column. Th e solu\u7400\u6900on must minimize data shu\u6600\u6e00ing. You write the followin g code.\nWhich code should you run to populate the results DataFrame?\nA)\nB)\nC)\nD)\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nA.Op\u7400\u6900on A\nB.Op\u7400\u6900on B\nC.Op\u7400\u6900on C\nD.Op\u7400\u6900on D\nCorrect Answer: A\nSec\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416",
+      "A": "Sec\u7400\u6900on:",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "question": "HOTSPOT\nYou have a Microso\u6600\u7400 Power B1 report and a seman\u7400\u6900c model that us es Direct Lake mode. From Power Si Desktop, you open Performa nce analyzer as shown in the following exhibit.\nUse the drop-down menus to select the answer choice that comp letes each statement based on the informa\u7400\u6900on presented in th e graphic. NOTE: Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "question": "You have a Fabric tenant that contains a lakehouse named lake house1. Lakehouse1 contains an unpar\u7400\u6900\u7400\u6900oned table named Tab le1.\nYou plan to copy data to Table1 and par\u7400\u6900\u7400\u6900on the table based on a date column in the source data.\nYou create a Copy ac\u7400\u6900vity to copy the data to Table1.\nYou need to specify the par\u7400\u6900\u7400\u6900on column in the Des\u7400\u6900na\u7400\u6900on se\u7400\u7d00ng s of the Copy ac\u7400\u6900vity.\nWhat should you do \u6600\u6900rst?",
+    "options": {
+      "A": "From the Des\u7400\u6900na\u7400\u6900on tab, set Mode to Append.",
+      "B": "Sec\u7400\u6900on:",
+      "C": "From the Source tab, select Enable par\u7400\u6900\u7400\u6900on discovery",
+      "D": "From the Des\u7400\u6900na\u7400\u6900on tab, set Mode to Overwrite."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "question": "HOTSPOT\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou have a Fabric tenant that contains a warehouse named Ware house1. Warehouse1 contains a fact table named FactSales th at has one billion rows. You run the following T-SQL statemen t.\nCREATE TABLE test.FactSales AS CLONE OF Dbo.FactSales;\nFor each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOTE: Each correct selec \u7400\u6900on is worth one point.\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou have a Fabric tenant that contains a warehouse named Ware house1. Warehouse1 contains a fact table named FactSales th at has one billion rows. You run the following T-SQ",
+      "L": "statemen t.\nCREAT",
+      "E": "Each correct selec \u7400\u6900on is worth one point.\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+      "S": "CLON",
+      "F": "Dbo.FactSales;\nFor each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOT"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "question": "You have source data in a folder on a local computer.\nYou need to create a solu\u7400\u6900on that will use Fabric to populate a data store. The solu\u7400\u6900on must meet the following requirement s:\n* Support the use of data\u6600\u6c00ows to load and append data to the dat a store.\n* Ensure that Delta tables are V-Order op\u7400\u6900mized and compacte d automa\u7400\u6900cally.\nWhich type of data store should you use?",
+    "options": {
+      "A": "Sec\u7400\u6900on:",
+      "B": "an Azure SQ",
+      "L": "database",
+      "C": "a warehouse",
+      "D": "a KQ"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "question": "HOTSPOT\nYou have a Fabric tenant that contains a lakehouse.\nYou are using a Fabric notebook to save a large DataFrame by us ing the following code.\nFor each of the following statements, select Yes if the state ment is true. Otherwise, select No.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nI",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "question": "HOTSPOT\nYou have the source data model shown in the following exhibit .\nThe primary keys of the tables are indicated by a key symbol be side the columns involved in each key.\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou need to create a dimensional data model that will enable t he analysis of order items by date, product, and customer.\nWhat should you include in the solu\u7400\u6900on? To answer, select the appropriate op\u7400\u6900ons in the answer area.\nNOTE: Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:",
+    "options": {
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nYou need to create a dimensional data model that will enable t he analysis of order items by date, product, and customer.\nWhat should you include in the solu\u7400\u6900on? To answer, select the appropriate op\u7400\u6900ons in the answer area.\nNOT",
+      "E": "Each correct selec\u7400\u6900on is worth one point.\nHot Area:\nAnswer Area:\nSec\u7400\u6900on:\nExplana\u7400\u6900on:"
+    },
+    "correct_answer": null,
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "question": "You have a Fabric tenant that contains a seman\u7400\u6900c model named M odel1. Model1 uses Import mode. Model1 contains a table name d Orders. Orders has 100 million rows and the following \u6600\u6900elds .\nYou need to reduce the memory used by Model! and the \u7400\u6900me it take s to refresh the model. Which two ac\u7400\u6900ons should you perform? E ach correct answer presents part of the solu\u7400\u6900on. NOTE: Each c orrect answer is worth one\npoint.\nA.Split OrderDateTime into separate date and \u7400\u6900me columns.\nB.Replace TotalQuan\u7400\u6900ty with a calculated column.\nC.Convert Quan\u7400\u6900ty into the Text data type.\nD.Replace TotalSalesAmount with a measure.\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416\n\nCorrect Answer: A, D\nSec\u7400\u6900on:",
+    "options": {
+      "M": "odel1. Model1 uses Import mode. Model1 contains a table name d Orders. Orders has 100 million rows and the following \u6600\u6900elds .\nYou need to reduce the memory used by Model! and the \u7400\u6900me it take s to refresh the model. Which two ac\u7400\u6900ons should you perform?",
+      "E": "Each c orrect answer is worth one\npoint.",
+      "A": "Split OrderDateTime into separate date and \u7400\u6900me columns.",
+      "B": "Replace TotalQuan\u7400\u6900ty with a calculated column.",
+      "C": "Convert Quan\u7400\u6900ty into the Text data type.",
+      "D": "Sec\u7400\u6900on:",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416"
+    },
+    "correct_answer": "p",
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "question": "You have a Fabric tenant that contains a seman\u7400\u6900c model.\nYou need to prevent report creators from popula\u7400\u6900ng visuals b y using implicit measures.\nWhat are two tools that you can use to achieve the goal? Each co rrect answer presents a complete solu\u7400\u6900on.\nNOTE: Each correct answer is worth one point.\nA.Microso\u6600\u7400 Power BI Desktop\nB.Tabular Editor\nC.Microso\u6600\u7400 SQL Server Management Studio (SSMS)\nD.DAX Studio\nCorrect Answer: A, B\nSec\u7400\u6900on:\nIT Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam J (samsjha@gmail.com)\nlOMoARcPSD|43654416",
+    "options": {
+      "E": "Each correct answer is worth one point.",
+      "A": "Microso\u6600\u7400 Power B",
+      "I": "Desktop",
+      "B": "Sec\u7400\u6900on:\nI",
+      "C": "Microso\u6600\u7400 SQ",
+      "L": "Server Management Studio (SSMS)",
+      "D": "DA",
+      "X": "Studio",
+      "T": "Certification Exams - Questions & Answers | VCEplus.io\nwww.VCEplus.io\nDownloaded by Sam",
+      "J": "(samsjha@gmail.com)\nlOMoARcPSD|43654416"
+    },
+    "correct_answer": "i",
+    "explanation": ""
+  }
+]

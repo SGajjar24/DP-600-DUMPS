@@ -1,0 +1,430 @@
+Microso昀琀.DP-600.by.Rian.30q
+Number: DP-600
+Passing Score: 800
+Time Limit: 120
+File Version: 4.0
+DP-600
+Exam Name: Implementing Analytics Solutions Using Microso ft Fabric
+IT Certification Exams - Questions & Answers | VCEplus.io
+Website: www.VCEplus.io
+Twitter: https://twitter.com/VCE_Plus
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Exam A
+QUESTION 1
+You have a Fabric workspace named Workspace 1 that contains a data昀氀ow named Data昀氀ow1. Data昀氀ow! has a query that returns 2. 000 rows. You view the query in Power Query as shown in the foll owing exhibit.
+What can you iden琀椀fy about the pickupLongitude column?
+A.The column has duplicate values.
+B.All the table rows are pro昀椀led.
+C.The column has missing values.
+D.There are 935 values that occur only once.
+Correct Answer: B
+Sec琀椀on:
+QUESTION 2
+HOTSPOT
+You to need assign permissions for the data store in the Analy 琀椀csPOC workspace. The solu琀椀on must meet the security requir ements.
+Which addi琀椀onal permissions should you assign when you shar e the data store? To answer, select the appropriate op琀椀ons in the answer area.
+NOTE: Each correct selec琀椀on is worth one point.
+Hot Area:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 3
+HOTSPOT
+You need to create a DAX measure to calculate the average over all sa琀椀sfac琀椀on score.
+How should you complete the DAX code? To answer, select the ap propriate op琀椀ons in the answer area.
+NOTE: Each correct selec琀椀on is worth one point.
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Hot Area:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 4
+HOTSPOT
+You need to resolve the issue with the pricing group classi昀椀c a琀椀on.
+How should you complete the T-SQL statement? To answer, sele ct the appropriate op琀椀ons in the answer area.
+NOTE: Each correct selec琀椀on is worth one point.
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Hot Area:
+Answer Area:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 5
+What should you recommend using to ingest the customer data i nto the data store in the Anaty琀椀csPOC workspace?
+A.a stored procedure
+B.a pipeline that contains a KQL ac琀椀vity
+C.a Spark notebook
+D.a data昀氀ow
+Correct Answer: D
+Sec琀椀on:
+QUESTION 6
+Which type of data store should you recommend in the Analy琀椀cs POC workspace?
+A.a data lake
+B.a warehouse
+C.a lakehouse
+D.an external Hive metaStore
+Correct Answer: C
+Sec琀椀on:
+QUESTION 7
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+You have a Fabric warehouse that contains a table named Stagi ng.Sales. Staging.Sales contains the following columns.
+You need to write a T-SQL query that will return data for the ye ar 2023 that displays ProductID and ProductName arxl has a su mmarized Amount that is higher than 10,000. Which query shou ld you use?
+A)
+B)
+C)
+D)
+A.Op琀椀on A
+B.Op琀椀on B
+C.Op琀椀on C
+D.Op琀椀on D
+Correct Answer: A
+Sec琀椀on:
+QUESTION 8
+HOTSPOT
+You have a data warehouse that contains a table named Stage. C ustomers. Stage-Customers contains all the customer recor d updates from a customer rela琀椀onship management (CRM) syst em. There can be mul琀椀ple updates
+per customer
+You need to write a T-SQL query that will return the customer I D, name, postal code, and the last updated 琀椀me of the most rece nt row for each customer ID.
+How should you complete the code? To answer, select the appro priate op琀椀ons in the answer area,
+NOTE Each correct selec琀椀on is worth one point.
+Hot Area:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 9
+You have a Fabric workspace that contains a DirectQuery sema n琀椀c model. The model queries a data source that has 500 millio n rows.
+You have a Microso昀琀 Power Bl report named Report1 that uses th e model. Report! contains visuals on mul琀椀ple pages.
+You need to reduce the query execu琀椀on 琀椀me for the visuals on al l the pages.
+What are two features that you can use? Each correct answer pr esents a complete solu琀椀on.
+NOTE: Each correct answer is worth one point.
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+A.user-de昀椀ned aggrega琀椀ons
+B.automa琀椀c aggrega琀椀on
+C.query caching
+D.OneLake integra琀椀on
+Correct Answer: A, B
+Sec琀椀on:
+QUESTION 10
+You have a Fabric tenant that contains 30 CSV 昀椀les in OneLake. The 昀椀les are updated daily.
+You create a Microso昀琀 Power Bl seman琀椀c model named Modell tha t uses the CSV 昀椀les as a data source. You con昀椀gure incremental refresh for Model 1 and publish the model to a Premium capacit y in the Fabric tenant.
+When you ini琀椀ate a refresh of Model1, the refresh fails a昀琀er r unning out of resources.
+What is a possible cause of the failure?
+A.Query folding is occurring.
+B.Only refresh complete days is selected.
+C.XMLA Endpoint is set to Read Only.
+D.Query folding is NOT occurring.
+E.The data type of the column used to par琀椀琀椀on the data has change d.
+Correct Answer: E
+Sec琀椀on:
+QUESTION 11
+You have a Fabric tenant that uses a Microso昀琀 tower Bl Premium capacity. You need to enable scale-out for a seman琀椀c model. W hat should you do 昀椀rst?
+A.At the seman琀椀c model level, set Large dataset storage format to O昀昀.
+B.At the tenant level, set Create and use Metrics to Enabled.
+C.At the seman琀椀c model level, set Large dataset storage format to On.
+D.At the tenant level, set Data Ac琀椀vator to Enabled.
+Correct Answer: C
+Sec琀椀on:
+QUESTION 12
+You have a Fabric tenant that contains a warehouse. The wareh ouse uses row-level security (RLS). You create a Direct Lake seman琀椀c model that uses the Delta tables and RLS of the wareho use. When users interact with a
+report built from the model, which mode will be used by the DAX queries?
+A.DirectQuery
+B.Dual
+C.Direct Lake
+D.Import
+Correct Answer: C
+Sec琀椀on:
+QUESTION 13
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+You have a Fabric tenant that contains a complex seman琀椀c mode l. The model is based on a star schema and contains many tables , including a fact table named Sales. You need to create a diag ram of the model. The diagram
+must contain only the Sales table and related tables. What sh ould you use from Microso昀琀 Power Bl Desktop?
+A.data categories
+B.Data view
+C.Model view
+D.DAX query view
+Correct Answer: C
+Sec琀椀on:
+QUESTION 14
+You have a Fabric tenant that contains a seman琀椀c model. The mo del uses Direct Lake mode.
+You suspect that some DAX queries load unnecessary columns i nto memory.
+You need to iden琀椀fy the frequently used columns that are load ed into memory.
+What are two ways to achieve the goal? Each correct answer pre sents a complete solu琀椀on.
+NOTE: Each correct answer is worth one point.
+A.Use the Analyze in Excel feature.
+B.Use the Ver琀椀paq Analyzer tool.
+C.Query the $system.discovered_STORAGE_TABLE_COLUMN-iN_ SEGMeNTS dynamic management view (DMV).
+D.Query the discover_hehory6Rant dynamic management view (D MV).
+Correct Answer: B, C
+Sec琀椀on:
+QUESTION 15
+You have a Fabric tenant that contains a warehouse.
+Several 琀椀mes a day. the performance of all warehouse queries degrades. You suspect that Fabric is thro琀琀ling the compute u sed by the warehouse.
+What should you use to iden琀椀fy whether thro琀琀ling is occurrin g?
+A.the Capacity se琀紀ngs
+B.the Monitoring hub
+C.dynamic management views (DMVs)
+D.the Microso昀琀 Fabric Capacity Metrics app
+Correct Answer: B
+Sec琀椀on:
+QUESTION 16
+HOTSPOT
+You have a Fabric workspace that uses the default Spark start er pool and run琀椀me version 1,2.
+You plan to read a CSV 昀椀le named Sales.raw.csv in a lakehouse, select columns, and save the data as a Delta table to the manag ed area of the lakehouse. Sales_raw.csv contains 12 columns .
+You have the following code.
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+For each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOTE: Each correct selec 琀椀on is worth one point.
+Hot Area:
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 17
+You have a Fabric tenant that contains a warehouse.
+A user discovers that a report that usually takes two minutes to render has been running for 45 minutes and has s琀椀ll not rend ered.
+You need to iden琀椀fy what is preven琀椀ng the report query from co mple琀椀ng.
+Which dynamic management view (DMV) should you use?
+A.sys.dm-exec_requests
+B.sys.dn_.exec._sessions
+C.sys.dm._exec._connec琀椀ons
+D.sys.dm_pdw_exec_requests
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Correct Answer: A
+Sec琀椀on:
+QUESTION 18
+DRAG DROP
+You are crea琀椀ng a data昀氀ow in Fabric to ingest data from an Azur e SQL database by using a T-SQL statement.
+You need to ensure that any foldable Power Query transforma琀椀 on steps are processed by the Microso昀琀 SQL Server engine.
+How should you complete the code? To answer, drag the appropr iate values to the correct targets. Each value may be used onc e, more than once, or not at all. You may need to drag the split b ar between panes or scroll to
+view content.
+NOTE: Each correct selec琀椀on is worth one point.
+Select and Place:
+Correct Answer:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 19
+DRAG DROP
+You have a Fabric tenant that contains a lakehouse named Lake house1
+Readings from 100 loT devices are appended to a Delta table in Lakehouse1. Each set of readings is approximately 25 KB. App roximately 10 GB of data is received daily.
+All the table and SparkSession se琀紀ngs are set to the default.
+You discover that queries are slow to execute. In addi琀椀on, th e lakehouse storage contains data and log 昀椀les that are no lon ger used.
+You need to remove the 昀椀les that are no longer used and combine small 昀椀les into larger 昀椀les with a target size of 1 GB per 昀椀le.
+What should you do? To answer, drag the appropriate ac琀椀ons to the correct requirements. Each ac琀椀on may be used once, more t han once, or not at all. You may need to drag the split bar betwe en panes or scroll to view
+content.
+NOTE: Each correct selec琀椀on is worth one point.
+Select and Place:
+Correct Answer:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 20
+You need to create a data loading pa琀琀ern for a Type 1 slowly cha nging dimension (SCD).
+Which two ac琀椀ons should you include in the process? Each corr ect answer presents part of the solu琀椀on.
+NOTE: Each correct answer is worth one point.
+A.Update rows when the non-key a琀琀ributes have changed.
+B.Insert new rows when the natural key exists in the dimension t able, and the non-key a琀琀ribute values have changed.
+C.Update the e昀昀ec琀椀ve end date of rows when the non-key a琀琀ribute values have changed.
+D.Insert new records when the natural key is a new value in the ta ble.
+Correct Answer: A, D
+Sec琀椀on:
+QUESTION 21
+HOTSPOT
+You have a Fabric workspace named Workspace1 and an Azure Dat a Lake Storage Gen2 account named storage'!. Workspace1 con tains a lakehouse named Lakehouse1.
+You need to create a shortcut to storage! in Lakehouse1.
+Which connec琀椀on and endpoint should you specify? To answer, select the appropriate op琀椀ons in the answer area.
+NOTE: Each correct selec琀椀on is worth one point.
+Hot Area:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 22
+You are analyzing customer purchases in a Fabric notebook by using PySpanc You have the following DataFrames:
+You need to join the DataFrames on the customer_id column. Th e solu琀椀on must minimize data shu昀渀ing. You write the followin g code.
+Which code should you run to populate the results DataFrame?
+A)
+B)
+C)
+D)
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+A.Op琀椀on A
+B.Op琀椀on B
+C.Op琀椀on C
+D.Op琀椀on D
+Correct Answer: A
+Sec琀椀on:
+QUESTION 23
+HOTSPOT
+You have a Microso昀琀 Power B1 report and a seman琀椀c model that us es Direct Lake mode. From Power Si Desktop, you open Performa nce analyzer as shown in the following exhibit.
+Use the drop-down menus to select the answer choice that comp letes each statement based on the informa琀椀on presented in th e graphic. NOTE: Each correct selec琀椀on is worth one point.
+Hot Area:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 24
+You have a Fabric tenant that contains a lakehouse named lake house1. Lakehouse1 contains an unpar琀椀琀椀oned table named Tab le1.
+You plan to copy data to Table1 and par琀椀琀椀on the table based on a date column in the source data.
+You create a Copy ac琀椀vity to copy the data to Table1.
+You need to specify the par琀椀琀椀on column in the Des琀椀na琀椀on se琀紀ng s of the Copy ac琀椀vity.
+What should you do 昀椀rst?
+A.From the Des琀椀na琀椀on tab, set Mode to Append.
+B.From the Des琀椀na琀椀on tab, select the par琀椀琀椀on column,
+C.From the Source tab, select Enable par琀椀琀椀on discovery
+D.From the Des琀椀na琀椀on tab, set Mode to Overwrite.
+Correct Answer: B
+Sec琀椀on:
+QUESTION 25
+HOTSPOT
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+You have a Fabric tenant that contains a warehouse named Ware house1. Warehouse1 contains a fact table named FactSales th at has one billion rows. You run the following T-SQL statemen t.
+CREATE TABLE test.FactSales AS CLONE OF Dbo.FactSales;
+For each of the following statements, select Yes if the state ment is true. Otherwise, select No. NOTE: Each correct selec 琀椀on is worth one point.
+Hot Area:
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 26
+You have source data in a folder on a local computer.
+You need to create a solu琀椀on that will use Fabric to populate a data store. The solu琀椀on must meet the following requirement s:
+* Support the use of data昀氀ows to load and append data to the dat a store.
+* Ensure that Delta tables are V-Order op琀椀mized and compacte d automa琀椀cally.
+Which type of data store should you use?
+A.a lakehouse
+B.an Azure SQL database
+C.a warehouse
+D.a KQL database
+Correct Answer: A
+Sec琀椀on:
+QUESTION 27
+HOTSPOT
+You have a Fabric tenant that contains a lakehouse.
+You are using a Fabric notebook to save a large DataFrame by us ing the following code.
+For each of the following statements, select Yes if the state ment is true. Otherwise, select No.
+NOTE: Each correct selec琀椀on is worth one point.
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Hot Area:
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 28
+HOTSPOT
+You have the source data model shown in the following exhibit .
+The primary keys of the tables are indicated by a key symbol be side the columns involved in each key.
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+You need to create a dimensional data model that will enable t he analysis of order items by date, product, and customer.
+What should you include in the solu琀椀on? To answer, select the appropriate op琀椀ons in the answer area.
+NOTE: Each correct selec琀椀on is worth one point.
+Hot Area:
+Answer Area:
+Sec琀椀on:
+Explana琀椀on:
+QUESTION 29
+You have a Fabric tenant that contains a seman琀椀c model named M odel1. Model1 uses Import mode. Model1 contains a table name d Orders. Orders has 100 million rows and the following 昀椀elds .
+You need to reduce the memory used by Model! and the 琀椀me it take s to refresh the model. Which two ac琀椀ons should you perform? E ach correct answer presents part of the solu琀椀on. NOTE: Each c orrect answer is worth one
+point.
+A.Split OrderDateTime into separate date and 琀椀me columns.
+B.Replace TotalQuan琀椀ty with a calculated column.
+C.Convert Quan琀椀ty into the Text data type.
+D.Replace TotalSalesAmount with a measure.
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+
+Correct Answer: A, D
+Sec琀椀on:
+QUESTION 30
+You have a Fabric tenant that contains a seman琀椀c model.
+You need to prevent report creators from popula琀椀ng visuals b y using implicit measures.
+What are two tools that you can use to achieve the goal? Each co rrect answer presents a complete solu琀椀on.
+NOTE: Each correct answer is worth one point.
+A.Microso昀琀 Power BI Desktop
+B.Tabular Editor
+C.Microso昀琀 SQL Server Management Studio (SSMS)
+D.DAX Studio
+Correct Answer: A, B
+Sec琀椀on:
+IT Certification Exams - Questions & Answers | VCEplus.io
+www.VCEplus.io
+Downloaded by Sam J (samsjha@gmail.com)
+lOMoARcPSD|43654416
+

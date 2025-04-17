@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": "maintain_analytics_solution",
+      "name": "Maintain a data analytics solution",
+      "weight": "25-30%",
+      "subcategories": [
+        {
+          "id": "security_governance",
+          "name": "Implement security and governance",
+          "topics": [
+            "Workspace-level access controls",
+            "Item-level access controls",
+            "Row-level, column-level, object-level, and file-level access control",
+            "Sensitivity labels",
+            "Item endorsement"
+          ]
+        },
+        {
+          "id": "development_lifecycle",
+          "name": "Maintain the analytics development lifecycle",
+          "topics": [
+            "Version control for workspace",
+            "Power BI Desktop project (.pbip)",
+            "Deployment pipelines",
+            "Impact analysis of downstream dependencies",
+            "XMLA endpoint for semantic models",
+            "Reusable assets (templates, data sources, shared models)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prepare_data",
+      "name": "Prepare data",
+      "weight": "45-50%",
+      "subcategories": [
+        {
+          "id": "get_data",
+          "name": "Get data",
+          "topics": [
+            "Data connections",
+            "OneLake data hub and real-time hub",
+            "Data ingestion and access",
+            "Lakehouse, warehouse, or eventhouse selection",
+            "OneLake integration"
+          ]
+        },
+        {
+          "id": "transform_data",
+          "name": "Transform data",
+          "topics": [
+            "Views, functions, and stored procedures",
+            "Data enrichment",
+            "Star schema implementation",
+            "Data denormalization",
+            "Data aggregation",
+            "Merging and joining data",
+            "Handling duplicate, missing, or null data",
+            "Data type conversion",
+            "Data filtering"
+          ]
+        },
+        {
+          "id": "query_analyze_data",
+          "name": "Query and analyze data",
+          "topics": [
+            "Visual Query Editor",
+            "SQL queries",
+            "KQL queries"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semantic_models",
+      "name": "Implement and manage semantic models",
+      "weight": "25-30%",
+      "subcategories": [
+        {
+          "id": "design_build_models",
+          "name": "Design and build semantic models",
+          "topics": [
+            "Storage mode selection",
+            "Star schema implementation",
+            "Relationship implementation",
+            "DAX calculations",
+            "Calculation groups and format strings",
+            "Large semantic model storage",
+            "Composite models"
+          ]
+        },
+        {
+          "id": "optimize_models",
+          "name": "Optimize enterprise-scale semantic models",
+          "topics": [
+            "Query and visual performance improvements",
+            "DAX performance optimization",
+            "Direct Lake configuration",
+            "Incremental refresh"
+          ]
+        }
+      ]
+    }
+  ]
+}
